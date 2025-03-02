@@ -1,6 +1,5 @@
 # MYNTRA-WEBSITE
 I developed this myntra -website using HTML and CSS.
-br 
 I have created another project which is very amazing. I have created this project using html and css programming language. Inside this project, we can also see many things on the web.🌐🌐👍🥰
 Related to the same cloth and whatever we see on Meesho.🤗🤗💫😍
 
